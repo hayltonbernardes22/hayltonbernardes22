@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 # **I'm Haylton Bernardes Neto.**
 
-- I have focused on the Artificial Intelligence career with a focus on Data Science since 2019, here I have created some repositories of projects that I have done in this area, in addition to some teachings for people who are starting in the area.
-- I have loved doing some Machine Learning and Deep Learning projects, and below I inserted the link of some of my projects, as well as my linkedin link, where you can have contact with me, together we will be stronger.
+- I have focused on a Data Science career with a focus on Artificial Intelligence, through GitHub I created some repositories of projects that I have done in this area, in addition to some teachings for people who are starting in the area.
+- I love doing some Machine Learning and Deep Learning projects, and below I insert the link to some of my projects, as well as my link on LinkedIn, where you can have contact with me, together we will be stronger.
 
 Linkedin: https://www.linkedin.com/in/haylton-bernardes-5021b816b/
 
@@ -41,3 +41,5 @@ Linkedin: https://www.linkedin.com/in/haylton-bernardes-5021b816b/
 
 • Aplicativos móveis ou web site: 
 [Projeto e-Comerce](https://github.com/hayltonbernardes22/Projetos_Regressao/blob/main/Projeto_eComerce/Projeto_e_Comerce.ipynb)
+
+It is also possible to communicate with me by e-mail: hayltonbneto2@gmail.com
