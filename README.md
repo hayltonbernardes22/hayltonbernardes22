@@ -31,7 +31,7 @@ Linkedin: https://www.linkedin.com/in/haylton-bernardes-5021b816b/
 [Wine_Project](https://github.com/hayltonbernardes22/Projetos_Classificacao/blob/main/Wine_Project/Wine_Project_2.0.ipynb)
 
 • Probability of Heart Disease:
-[Heart_Disease_UCI](https://github.com/hayltonbernardes22/Projects_Classification/tree/main/Heart_Disease_UCI_Project)
+[Heart_Disease_UCI](https://github.com/hayltonbernardes22/Projects_Classification/blob/main/Heart_Disease_UCI_Project/Heart_Disease_UCI.ipynb)
 
 • Students do private or public education:: 
 [University_Project](https://github.com/hayltonbernardes22/Projects_Unsupervised_Learning/blob/main/University_Project/University_Project.ipynb)
