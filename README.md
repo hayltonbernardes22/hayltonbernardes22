@@ -37,7 +37,7 @@ Linkedin: https://www.linkedin.com/in/haylton-bernardes-5021b816b/
 [University_Project](https://github.com/hayltonbernardes22/Projects_Unsupervised_Learning/blob/main/University_Project/University_Project.ipynb)
 
 • Survived of Titanic: 
-[Titanic_Project](https://github.com/hayltonbernardes22/Projetos_Classificacao/blob/main/Projeto_Titanic_Kaggle/Project_Titanic_2.ipynb)
+[Titanic_Project](https://github.com/hayltonbernardes22/Projects_Classification/blob/main/Projeto_Titanic_Kaggle/Project_Titanic_2.0.ipynb)
 
 • Aplicativos móveis ou web site: 
 [Projeto e-Comerce](https://github.com/hayltonbernardes22/Projetos_Regressao/blob/main/Projeto_eComerce/Projeto_e_Comerce.ipynb)
