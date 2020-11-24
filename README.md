@@ -43,7 +43,7 @@ Linkedin: https://www.linkedin.com/in/haylton-bernardes-5021b816b/
 [Projeto e-Comerce](https://github.com/hayltonbernardes22/Projetos_Regressao/blob/main/Projeto_eComerce/Projeto_e_Comerce.ipynb)
 
 - Repositorio de Estudos:
-•- [Data_Analysis](https://github.com/hayltonbernardes22/Data_analysis_study)
-•- [Statistics](https://github.com/hayltonbernardes22/Data_analysis_study/tree/master/Python_Statistics)
+• [Data_Analysis](https://github.com/hayltonbernardes22/Data_analysis_study) // 
+• [Statistics](https://github.com/hayltonbernardes22/Data_analysis_study/tree/master/Python_Statistics)
 
 It is also possible to communicate with me by e-mail: hayltonbneto2@gmail.com
