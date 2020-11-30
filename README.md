@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# **I'm Haylton Bernardes Neto.**
+# **I'm Haylton Bernardes Neto**
 
 - I have focused on a Data Science career with a focus on Artificial Intelligence, through GitHub I created some repositories of projects that I have done in this area, in addition to some teachings for people who are starting in the area.
 - I love doing some Machine Learning and Deep Learning projects, and below I insert the link to some of my projects, as well as my link on LinkedIn, where you can have contact with me, together we will be stronger.
