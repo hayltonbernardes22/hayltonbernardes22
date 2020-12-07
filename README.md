@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - I love doing some Machine Learning and Deep Learning projects, and below I insert the link to some of my projects, as well as my link on LinkedIn, where you can have contact with me, together we will be stronger.
 
 It is also possible to communicate with me by: [Linkedin](https://www.linkedin.com/in/haylton-bernardes-5021b816b/) OR [E-mail](hayltonbneto2@gmail.com)
+<a href="https://www.linkedin.com/in/gvieiraf/"><img src="https://s18955.pcdn.co/wp-content/uploads/2017/05/LinkedIn.png" height="30" width=
 
 - Some Projects:
 
