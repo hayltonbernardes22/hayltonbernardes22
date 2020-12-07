@@ -6,7 +6,7 @@
 It is also possible to communicate with me by:
 <p>
 <a href="https://www.linkedin.com/in/haylton-bernardes-5021b816b/"><img src="https://s18955.pcdn.co/wp-content/uploads/2017/05/LinkedIn.png" height="30" width="30"></a>
-<a href="mailto:hayltonbneto2@gmail.com?subject=Hello%20Haylton"><img src="https://s18955.pcdn.co/wp-content/uploads/2019/06/gmail-copy.png" height="30" width="30">
+<a href="mailto:hayltonbneto2@gmail.com?subject=Hello%20Haylton"><img src="https://s18955.pcdn.co/wp-content/uploads/2019/06/gmail-copy.png" height="30" width="30"></a>
 </p>
 
 ## Some Projects:
