@@ -14,20 +14,23 @@ It is also possible to communicate with me by:
 • Banking Marketing Campaigns: 
 [Marketing_Project](https://github.com/hayltonbernardes22/ProjectMarketing/blob/master/Marketing.ipynb)
 
+• Preços de Hospedagem: 
+[Projeto_Airbnb](https://github.com/hayltonbernardes22/Regression_Projects/blob/main/machine_learning_airbnb/machine_learning_airbnb_atualizado.ipynb)
+
+• Tamanho dos Chocolates: 
+[Projeto_Fabrica_Chocolate](https://github.com/hayltonbernardes22/Regression_Projects/blob/main/Projeto_Fabrica_Chocolate/Data_Modeling_Pred_Fabrica_de_Chocolate.ipynb)
+
 • Red Wine Quality: 
 [Wine_Project](https://github.com/hayltonbernardes22/Projetos_Classificacao/blob/main/Wine_Project/Wine_Project_2.0.ipynb)
+
+• Possibilidade Cancelamento de Reservas: 
+[Project_Booking.com](https://github.com/hayltonbernardes22/Projects_Classification/blob/main/Project_Booking.com/Project_Booking.com.ipynb)
 
 • Probability of Heart Disease:
 [Heart_Disease_UCI](https://github.com/hayltonbernardes22/Projects_Classification/blob/main/Heart_Disease_UCI_Project/Heart_Disease_UCI.ipynb)
 
-• Students do private or public education:: 
-[University_Project](https://github.com/hayltonbernardes22/Projects_Unsupervised_Learning/blob/main/University_Project/University_Project.ipynb)
-
 • Survived of Titanic: 
 [Titanic_Project](https://github.com/hayltonbernardes22/Projects_Classification/blob/main/Projeto_Titanic_Kaggle/Project_Titanic_2.0.ipynb)
-
-• Aplicativos móveis ou web site: 
-[Projeto e-Comerce](https://github.com/hayltonbernardes22/Projetos_Regressao/blob/main/Projeto_eComerce/Projeto_e_Comerce.ipynb)
 
 - Repositorio de Estudos: //
 • [Data_Analysis](https://github.com/hayltonbernardes22/Data_analysis_study) // 
