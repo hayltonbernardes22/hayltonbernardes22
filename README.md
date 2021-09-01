@@ -35,6 +35,7 @@ It is also possible to communicate with me by:
 - Repositorio de Estudos: //
 • [Data_Analysis](https://github.com/hayltonbernardes22/Data_analysis_study) // 
 • [Statistics](https://github.com/hayltonbernardes22/Data_analysis_study/tree/master/Python_Statistics) //
+• [Time_Series](https://github.com/hayltonbernardes22/Time_Series_Projects/tree/main/Time_Series_Study) //
 
 
 
